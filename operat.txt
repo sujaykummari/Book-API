@@ -1,0 +1,17 @@
+mongo db operators->
+
+Arrays [ 1 2 3 4  ]
+
+$push 
+$pop
+$pull-> to pull a specific element
+
+$min
+$max
+$set
+$inc
+
+$unset
+$
+$
+
